@@ -3,14 +3,13 @@ secondary_name: ""
 navbar_name: "Quinn Thibeault"
 
 positions:
-- name: Graduate Student
-- name: Arizona State University
-  logo: /assets/images/badges/ASU_pitchfork.webp
-
+  - name: Graduate Student
+  - name: Arizona State University
+    logo: /assets/images/badges/ASU_pitchfork.webp
 
 email: "qthibeault@proton.me"
 # cv_link: link-to-your-cv-file
-gscholar: 5duXJ3kAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: 5duXJ3kAAAAJ # This is an example, replace it with your own Google Scholar ID
 github: qthibeault
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -24,7 +23,7 @@ short_bio: >-
   <p>
   I am currently a <b>Computer Engineering (Computer Systems) Ph.D. candidate at Arizona State University</b>,
   advised by <a href="https://search.asu.edu/profile/3022467">Giulia Pedrielli</a>. I also received my
-  Bachelor's in Computer Systems Engineering from ASU in 2014.
+  Bachelor's in Computer Systems Engineering from ASU in 2019.
   </p>
   My research broadly revolves around robotics and cyber-physical systems, with a particular focus on system verification.
   I aim to engineer and verify these systems to ensure they exhibit no unwanted behavior, especially in safety-critical environments.
@@ -36,16 +35,16 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Arizona State University
-  logo: /assets/images/badges/ASU_pitchfork.webp
-  position: >-
-    School of Computing and Augmented Intelligence <br/>
-    Ph.D. Student
-  date: Jun. 2020 - present
-- name: Arizona State University
-  logo: /assets/images/badges/ASU_pitchfork.webp
-  position: B.S.E. in Computer Systems Engineering
-  date: Sep. 2015 - Jul. 2019
+  - name: Arizona State University
+    logo: /assets/images/badges/ASU_pitchfork.webp
+    position: >-
+      School of Computing and Augmented Intelligence <br/>
+      Ph.D. Student
+    date: Jun. 2020 - present
+  - name: Arizona State University
+    logo: /assets/images/badges/ASU_pitchfork.webp
+    position: B.S.E. in Computer Systems Engineering
+    date: Sep. 2015 - Jul. 2019
 
 # awards:
 # - name: Award Name 2
